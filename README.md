@@ -1,2 +1,3 @@
 # react-component-overloading
-Created with CodeSandbox
+
+An example of Typescript function interface overloading applied to React components
